@@ -4,11 +4,6 @@
 
 This repository contains the complete artifact for the paper "RCI-SG: Exploiting Multi-Skill Circular Execution in Agentic Workflows", submitted to ACM Conference on Computer and Communications Security (CCS) 2026.
 
-## ACM Artifact Badges
-
-- **Artifacts Available**: All code, data, and configurations are archived at [DOI link]
-- **Artifacts Evaluated — Functional**: Verified by CCS 2026 artifact evaluation committee
-- **Results Reproduced**: All experimental results in the paper can be reproduced using this artifact
 
 ## Table of Contents
 
