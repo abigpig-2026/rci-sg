@@ -1,0 +1,2107 @@
+{
+  "baseline_name": "MASB_Scanner",
+  "summary": {
+    "baseline": "MASB_Scanner",
+    "total": 110,
+    "scanned": 110,
+    "failed": 0,
+    "safe": 110,
+    "low": 0,
+    "medium": 0,
+    "high": 0,
+    "critical": 0,
+    "blocked": 0
+  },
+  "results": [
+    {
+      "skill_name": "skill_001_pipeline-0.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0032973289489746094,
+      "success": true
+    },
+    {
+      "skill_name": "skill_002_pipeline-1.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0031523704528808594,
+      "success": true
+    },
+    {
+      "skill_name": "skill_003_pipeline-2.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0021533966064453125,
+      "success": true
+    },
+    {
+      "skill_name": "skill_004_pipeline-3.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0020987987518310547,
+      "success": true
+    },
+    {
+      "skill_name": "skill_005_pipeline-4.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002024412155151367,
+      "success": true
+    },
+    {
+      "skill_name": "skill_006_pipeline-5.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0009844303131103516,
+      "success": true
+    },
+    {
+      "skill_name": "skill_007_pipeline-6.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0,
+      "success": true
+    },
+    {
+      "skill_name": "skill_008_pipeline-7.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.004166603088378906,
+      "success": true
+    },
+    {
+      "skill_name": "skill_009_pipeline-8.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0020303726196289062,
+      "success": true
+    },
+    {
+      "skill_name": "skill_010_pipeline-9.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.001611471176147461,
+      "success": true
+    },
+    {
+      "skill_name": "skill_011_pipeline-10.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0023345947265625,
+      "success": true
+    },
+    {
+      "skill_name": "skill_012_pipeline-11.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0009698867797851562,
+      "success": true
+    },
+    {
+      "skill_name": "skill_013_pipeline-12.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0015277862548828125,
+      "success": true
+    },
+    {
+      "skill_name": "skill_014_pipeline-13.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0025017261505126953,
+      "success": true
+    },
+    {
+      "skill_name": "skill_015_pipeline-14.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002138853073120117,
+      "success": true
+    },
+    {
+      "skill_name": "skill_016_pipeline-15.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0025207996368408203,
+      "success": true
+    },
+    {
+      "skill_name": "skill_017_pipeline-16.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.001026153564453125,
+      "success": true
+    },
+    {
+      "skill_name": "skill_018_pipeline-17.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0025467872619628906,
+      "success": true
+    },
+    {
+      "skill_name": "skill_019_pipeline-18.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0030252933502197266,
+      "success": true
+    },
+    {
+      "skill_name": "skill_020_pipeline-19.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0021820068359375,
+      "success": true
+    },
+    {
+      "skill_name": "skill_021_pipeline-20.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0020008087158203125,
+      "success": true
+    },
+    {
+      "skill_name": "skill_022_pipeline-21.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.001943826675415039,
+      "success": true
+    },
+    {
+      "skill_name": "skill_023_pipeline-22.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0026977062225341797,
+      "success": true
+    },
+    {
+      "skill_name": "skill_024_pipeline-23.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0015630722045898438,
+      "success": true
+    },
+    {
+      "skill_name": "skill_025_pipeline-24.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0035195350646972656,
+      "success": true
+    },
+    {
+      "skill_name": "skill_026_pipeline-25.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002569913864135742,
+      "success": true
+    },
+    {
+      "skill_name": "skill_027_pipeline-26.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002012014389038086,
+      "success": true
+    },
+    {
+      "skill_name": "skill_028_pipeline-27.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002040863037109375,
+      "success": true
+    },
+    {
+      "skill_name": "skill_029_pipeline-28.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0020294189453125,
+      "success": true
+    },
+    {
+      "skill_name": "skill_030_pipeline-29.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0019948482513427734,
+      "success": true
+    },
+    {
+      "skill_name": "skill_031_pipeline-30.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0025870800018310547,
+      "success": true
+    },
+    {
+      "skill_name": "skill_032_pipeline-31.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0018227100372314453,
+      "success": true
+    },
+    {
+      "skill_name": "skill_033_pipeline-32.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0031282901763916016,
+      "success": true
+    },
+    {
+      "skill_name": "skill_034_pipeline-33.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0020868778228759766,
+      "success": true
+    },
+    {
+      "skill_name": "skill_035_pipeline-34.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0016889572143554688,
+      "success": true
+    },
+    {
+      "skill_name": "skill_036_pipeline-35.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0025446414947509766,
+      "success": true
+    },
+    {
+      "skill_name": "skill_037_pipeline-36.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002571582794189453,
+      "success": true
+    },
+    {
+      "skill_name": "skill_038_pipeline-37.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0020301342010498047,
+      "success": true
+    },
+    {
+      "skill_name": "skill_039_pipeline-38.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0019779205322265625,
+      "success": true
+    },
+    {
+      "skill_name": "skill_040_pipeline-39.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.001504659652709961,
+      "success": true
+    },
+    {
+      "skill_name": "skill_041_pipeline-40.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002878904342651367,
+      "success": true
+    },
+    {
+      "skill_name": "skill_042_pipeline-41.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002545595169067383,
+      "success": true
+    },
+    {
+      "skill_name": "skill_043_pipeline-42.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.001032114028930664,
+      "success": true
+    },
+    {
+      "skill_name": "skill_044_pipeline-43.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002981901168823242,
+      "success": true
+    },
+    {
+      "skill_name": "skill_045_pipeline-44.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0012030601501464844,
+      "success": true
+    },
+    {
+      "skill_name": "skill_046_pipeline-45.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0030176639556884766,
+      "success": true
+    },
+    {
+      "skill_name": "skill_047_pipeline-46.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002101898193359375,
+      "success": true
+    },
+    {
+      "skill_name": "skill_048_pipeline-47.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0,
+      "success": true
+    },
+    {
+      "skill_name": "skill_049_pipeline-48.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.004158496856689453,
+      "success": true
+    },
+    {
+      "skill_name": "skill_050_pipeline-49.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0023856163024902344,
+      "success": true
+    },
+    {
+      "skill_name": "skill_051_pipeline-50.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.001016378402709961,
+      "success": true
+    },
+    {
+      "skill_name": "skill_052_pipeline-51.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002658843994140625,
+      "success": true
+    },
+    {
+      "skill_name": "skill_053_pipeline-52.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0020058155059814453,
+      "success": true
+    },
+    {
+      "skill_name": "skill_054_pipeline-53.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0025107860565185547,
+      "success": true
+    },
+    {
+      "skill_name": "skill_055_pipeline-54.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0027179718017578125,
+      "success": true
+    },
+    {
+      "skill_name": "skill_056_pipeline-55.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0020084381103515625,
+      "success": true
+    },
+    {
+      "skill_name": "skill_057_pipeline-56.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002043008804321289,
+      "success": true
+    },
+    {
+      "skill_name": "skill_058_pipeline-57.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002633333206176758,
+      "success": true
+    },
+    {
+      "skill_name": "skill_059_pipeline-58.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.001974821090698242,
+      "success": true
+    },
+    {
+      "skill_name": "skill_060_pipeline-59.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002540111541748047,
+      "success": true
+    },
+    {
+      "skill_name": "skill_061_pipeline-60.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0020673274993896484,
+      "success": true
+    },
+    {
+      "skill_name": "skill_062_pipeline-61.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002038717269897461,
+      "success": true
+    },
+    {
+      "skill_name": "skill_063_pipeline-62.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0015490055084228516,
+      "success": true
+    },
+    {
+      "skill_name": "skill_064_pipeline-63.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002045869827270508,
+      "success": true
+    },
+    {
+      "skill_name": "skill_065_pipeline-64.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.00247955322265625,
+      "success": true
+    },
+    {
+      "skill_name": "skill_066_pipeline-65.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0024576187133789062,
+      "success": true
+    },
+    {
+      "skill_name": "skill_067_pipeline-66.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0016863346099853516,
+      "success": true
+    },
+    {
+      "skill_name": "skill_068_pipeline-67.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0026862621307373047,
+      "success": true
+    },
+    {
+      "skill_name": "skill_069_pipeline-68.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002362966537475586,
+      "success": true
+    },
+    {
+      "skill_name": "skill_070_pipeline-69.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0020296573638916016,
+      "success": true
+    },
+    {
+      "skill_name": "skill_071_pipeline-70.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0020401477813720703,
+      "success": true
+    },
+    {
+      "skill_name": "skill_072_pipeline-71.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.001506805419921875,
+      "success": true
+    },
+    {
+      "skill_name": "skill_073_pipeline-72.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0010039806365966797,
+      "success": true
+    },
+    {
+      "skill_name": "skill_074_pipeline-73.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0025272369384765625,
+      "success": true
+    },
+    {
+      "skill_name": "skill_075_pipeline-74.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0015110969543457031,
+      "success": true
+    },
+    {
+      "skill_name": "skill_076_pipeline-75.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002109050750732422,
+      "success": true
+    },
+    {
+      "skill_name": "skill_077_pipeline-76.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0008833408355712891,
+      "success": true
+    },
+    {
+      "skill_name": "skill_078_pipeline-77.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0020220279693603516,
+      "success": true
+    },
+    {
+      "skill_name": "skill_079_pipeline-78.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0012731552124023438,
+      "success": true
+    },
+    {
+      "skill_name": "skill_080_pipeline-79.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0025577545166015625,
+      "success": true
+    },
+    {
+      "skill_name": "skill_081_pipeline-80.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0019960403442382812,
+      "success": true
+    },
+    {
+      "skill_name": "skill_082_pipeline-81.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0014753341674804688,
+      "success": true
+    },
+    {
+      "skill_name": "skill_083_pipeline-82.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0010437965393066406,
+      "success": true
+    },
+    {
+      "skill_name": "skill_084_pipeline-83.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0025513172149658203,
+      "success": true
+    },
+    {
+      "skill_name": "skill_085_pipeline-84.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0008234977722167969,
+      "success": true
+    },
+    {
+      "skill_name": "skill_086_pipeline-85.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0020008087158203125,
+      "success": true
+    },
+    {
+      "skill_name": "skill_087_pipeline-86.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0020363330841064453,
+      "success": true
+    },
+    {
+      "skill_name": "skill_088_pipeline-87.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0020699501037597656,
+      "success": true
+    },
+    {
+      "skill_name": "skill_089_pipeline-88.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.001010894775390625,
+      "success": true
+    },
+    {
+      "skill_name": "skill_090_pipeline-89.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0025277137756347656,
+      "success": true
+    },
+    {
+      "skill_name": "skill_091_pipeline-90.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0015225410461425781,
+      "success": true
+    },
+    {
+      "skill_name": "skill_092_pipeline-91.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.001012563705444336,
+      "success": true
+    },
+    {
+      "skill_name": "skill_093_pipeline-92.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002420186996459961,
+      "success": true
+    },
+    {
+      "skill_name": "skill_094_pipeline-93.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002044200897216797,
+      "success": true
+    },
+    {
+      "skill_name": "skill_095_pipeline-94.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0015668869018554688,
+      "success": true
+    },
+    {
+      "skill_name": "skill_096_pipeline-95.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.001010894775390625,
+      "success": true
+    },
+    {
+      "skill_name": "skill_097_pipeline-96.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0018088817596435547,
+      "success": true
+    },
+    {
+      "skill_name": "skill_098_pipeline-97.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0020189285278320312,
+      "success": true
+    },
+    {
+      "skill_name": "skill_099_pipeline-98.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0009992122650146484,
+      "success": true
+    },
+    {
+      "skill_name": "skill_100_pipeline-99.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002557039260864258,
+      "success": true
+    },
+    {
+      "skill_name": "skill_101_pipeline-100.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0013382434844970703,
+      "success": true
+    },
+    {
+      "skill_name": "skill_102_pipeline-101.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0010144710540771484,
+      "success": true
+    },
+    {
+      "skill_name": "skill_103_pipeline-102.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0025076866149902344,
+      "success": true
+    },
+    {
+      "skill_name": "skill_104_pipeline-103.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0011444091796875,
+      "success": true
+    },
+    {
+      "skill_name": "skill_105_pipeline-104.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0020737648010253906,
+      "success": true
+    },
+    {
+      "skill_name": "skill_106_pipeline-105.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0030677318572998047,
+      "success": true
+    },
+    {
+      "skill_name": "skill_107_pipeline-106.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0010075569152832031,
+      "success": true
+    },
+    {
+      "skill_name": "skill_108_pipeline-107.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.0015058517456054688,
+      "success": true
+    },
+    {
+      "skill_name": "skill_109_pipeline-108.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002008199691772461,
+      "success": true
+    },
+    {
+      "skill_name": "skill_110_pipeline-109.md",
+      "overall_risk": "safe",
+      "blocked": false,
+      "block_reason": null,
+      "findings_count": 1,
+      "findings": [
+        {
+          "source": "masb_scanner",
+          "category": "scan_status",
+          "message": "No skill directories found",
+          "severity": "safe",
+          "file_path": null,
+          "details": {}
+        }
+      ],
+      "scan_duration_seconds": 0.002200603485107422,
+      "success": true
+    }
+  ]
+}

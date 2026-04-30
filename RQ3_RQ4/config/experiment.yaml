@@ -1,0 +1,96 @@
+# RCI-SG Experiment Configuration
+# Paper: "RCI-SG: Multi-hop EDoS via Component Composition in LLM Agents"
+# Venue: ACM CCS 2026
+
+experiment:
+  name: "RCI-SG_Cross_Model_Validation"
+  version: "1.0.0"
+  description: >
+    End-to-end evaluation of RCI-SG attack framework across multiple
+    foundation models on the OpenClaw agent platform.
+  
+  # Attack parameters (matching paper Section 5.3)
+  max_iterations: 50          # Maximum skill invocations per session (N_max)
+  cache_threshold: 0.92       # Semantic cache similarity threshold (tau_cache)
+  baseline_tokens: 142        # Normal task token baseline for CAF computation
+  
+  # Output configuration
+  output_dir: "results"
+  save_interval: 5            # Save checkpoint every N experiments
+  
+  # Retry configuration
+  max_retries: 3              # API call retries on failure
+  retry_delay: 2.0            # Seconds between retries
+
+# Target models for cross-model validation (RQ2-B)
+# All models accessed via Bailian (DashScope) API
+models:
+  - name: "qwen-plus"
+    provider: "bailian"
+    model_id: "qwen-plus"
+    timeout: 12
+    description: "Alibaba Qwen3.6-Plus (enterprise-grade)"
+    samples: 110                # Full 110 attack skills
+    
+  - name: "qwen2.5-7b-instruct"
+    provider: "bailian"
+    model_id: "qwen2.5-7b-instruct"
+    timeout: 10
+    description: "Alibaba Qwen2.5-7B (open-source)"
+    samples: 110
+    
+  - name: "MiniMax-M2.5"
+    provider: "bailian"
+    model_id: "MiniMax-M2.5"
+    timeout: 14
+    description: "MiniMax M2.5 (coding/tool-oriented)"
+    samples: 70                 # Subsample due to API latency
+    
+  - name: "glm-5.1"
+    provider: "bailian"
+    model_id: "glm-5.1"
+    timeout: 40
+    description: "Zhipu GLM-5.1 (agent-specialized)"
+    samples: 11                 # Representative sample due to high latency
+
+# Attack method configurations
+attacks:
+  # RCI-SG: Our proposed multi-hop attack (Section 4)
+  rci_sg:
+    enabled: true
+    use_progression_illusion: true    # Enable progression illusion (Section 4.3)
+    use_entropy_injection: true       # Enable dynamic entropy (Section 4.4)
+    min_cycle_length: 3               # Minimum skill cycle length (k >= 3)
+    
+  # Engorgio: Single-step output inflation baseline
+  # Reference: Li et al., "Prompt Injection as a Defense Against LLM Attacks"
+  engorgio:
+    enabled: true
+    inflation_factor: 8.0             # Target output inflation ratio
+    
+  # Breaking Agents: Single-tool loop baseline
+  # Reference: Greshake et al., "Not What You've Signed Up For"
+  breaking_agents:
+    enabled: true
+    max_loop_depth: 5                 # Maximum single-tool iterations
+
+# OpenClaw configuration
+openclaw:
+  # OpenClaw gateway endpoint (default local installation)
+  gateway_url: "http://localhost:18789"
+  
+  # Skill directories (checked in order of priority)
+  skill_dirs:
+    - "skills"                       # Workspace skills (attack skills)
+    - "~/.openclaw/skills"          # User skills
+    - "/usr/local/lib/node_modules/openclaw/skills"  # Built-in skills
+  
+  # Agent configuration
+  agent_timeout: 300                # Session timeout in seconds
+  max_concurrent_sessions: 4        # Max parallel agent sessions (Table 2 param)
+
+# Logging
+logging:
+  level: "INFO"                     # DEBUG, INFO, WARNING, ERROR
+  format: "%(asctime)s [%(levelname)s] %(name)s: %(message)s"
+  file: "results/experiment.log"

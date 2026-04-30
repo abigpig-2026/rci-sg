@@ -1,0 +1,53 @@
+# RQ4 Ablation Study Configuration
+# Paper: Table 3 - Impact of Core Modules on Attack Effectiveness
+
+experiment:
+  name: "RQ4_Ablation_Study"
+  description: >
+    Four-variant ablation study on qwen-plus to establish causal
+    contribution of Progression Illusion and Dynamic Entropy.
+  
+  # Fixed parameters (all variants share these)
+  model: "qwen-plus"
+  model_id: "qwen-plus"
+  provider: "bailian"
+  timeout: 12
+  samples: 110
+  
+  # Attack parameters
+  max_iterations: 50
+  cache_threshold: 0.92
+  baseline_tokens: 142
+  
+  # Output
+  output_dir: "results/RQ4"
+
+# Variant definitions
+variants:
+  V-Full:
+    name: "V-Full (RCI-SG)"
+    description: "Complete framework with both modules"
+    use_progression_illusion: true
+    use_dynamic_entropy: true
+    # Expected: ASR=64.55%, CAF=23.87x, RLHF=0.0%, Cache=12.3%
+    
+  V-w/o-Illusion:
+    name: "V-w/o-Illusion"
+    description: "Strip progression illusion, keep entropy"
+    use_progression_illusion: false
+    use_dynamic_entropy: true
+    # Expected: ASR=13.5%, CAF=2.34x, RLHF=86.5%, Cache=13.7%
+    
+  V-w/o-Entropy:
+    name: "V-w/o-Entropy"
+    description: "Strip dynamic entropy, keep illusion"
+    use_progression_illusion: true
+    use_dynamic_entropy: false
+    # Expected: ASR=0.0%, CAF=1.04x, RLHF=0.0%, Cache=97.8%
+    
+  V-w/o-Both:
+    name: "V-w/o-Both"
+    description: "Strip both mechanisms"
+    use_progression_illusion: false
+    use_dynamic_entropy: false
+    # Expected: ASR=0.0%, CAF=1.02x, RLHF=92.4%, Cache=0.6%
