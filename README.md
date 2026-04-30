@@ -107,11 +107,8 @@ rci-sg/
 │                  
 │
 ├── output/                          # Generated outputs (gitignored)
-│   ├── phase1_skill_graph.json      # Parsed skill graph
-│   ├── phase2_vulnerable_paths.json # Detected cycles
-│   ├── generated_skills/            # Synthesized malicious skills
-│   ├── experiment_results/          # RQ3/RQ4 results
-│   └── case_study_results/          # Case study outputs
+│   ├── all_skills_md      # all generate attack skills
+│
 │
 ├── run_case_study.py                # Case study: entropy vs no-entropy
 ├── run_realistic_attack.py          # Realistic attack demonstration
