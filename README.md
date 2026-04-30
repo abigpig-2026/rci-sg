@@ -103,8 +103,8 @@ rci-sg/
 │   │   └── ablation.yaml
 │   └── requirements.txt
 │
-├── models/                          # Pre-trained embedding models
-│   └── BAAI/bge-m3/                 # BGE-M3 for semantic similarity
+├── models/                          
+│                  
 │
 ├── output/                          # Generated outputs (gitignored)
 │   ├── phase1_skill_graph.json      # Parsed skill graph
