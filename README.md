@@ -223,14 +223,14 @@ python experiment_case_study.py
 
 | File | Description | Size |
 |------|-------------|------|
-| `output/phase1_skill_graph.json` | Parsed skill graph with action nodes | ~50 MB |
-| `output/phase2_vulnerable_paths.json` | Detected cyclic paths | ~5 MB |
+| `output/phase1_skill_graph.json` | Parsed skill graph with action nodes |
+| `output/phase2_vulnerable_paths.json` | Detected cyclic paths |
 
 ### Phase 3: Malicious Skill Generation
 
 | Directory | Description | Count |
 |-----------|-------------|-------|
-| `output/generated_skills/` | Generated malicious skill folders | 110+ |
+| `output/generated_skills/` | Generated malicious skill folders | 
 
 Each skill folder contains:
 - `SKILL.md`: Agent-compatible skill definition
